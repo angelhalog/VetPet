@@ -1,0 +1,125 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		intro
+	 *	@date 		Wednesday 28th of September 2022 03:35:15 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/intro" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_intro_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__intro_ek2"
+					android:background="@drawable/_bg__intro_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<View   android:id="@+id/ellipse_2"
+					android:background="@drawable/ellipse_2_shape"
+					 android:layout_marginStart="95dp"
+					android:layout_marginTop="252dp"
+					android:layout_width="247.59dp"
+					android:layout_height="235.85dp" />
+
+				<View   android:id="@+id/ellipse_1"
+					android:background="@drawable/ellipse_1_shape"
+					 android:layout_marginStart="111dp"
+					android:layout_marginTop="267dp"
+					android:layout_width="216dp"
+					android:layout_height="206dp" />
+
+				<View   android:id="@+id/_button"
+					android:background="@drawable/_button_shape"
+					 android:layout_marginStart="145dp"
+					android:layout_marginTop="799dp"
+					android:layout_width="138dp"
+					android:layout_height="48dp" />
+
+				<TextView android:id="@+id/codecademy"
+					android:fontFamily="K2D"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="32sp"
+					android:textColor="@color/_button_color"
+					android:layout_marginLeft="117dp"
+					android:layout_marginTop="511dp"
+					android:layout_width="205dp"
+					android:layout_height="64dp"
+					android:text="@string/codecademy_string"
+					 />
+
+				<TextView android:id="@+id/sign_up"
+					android:fontFamily="K2D"
+					android:textSize="18sp"
+					android:textColor="@color/sign_up_color"
+					android:layout_marginLeft="182dp"
+					android:layout_marginTop="811dp"
+					android:layout_width="87dp"
+					android:layout_height="36dp"
+					android:text="@string/sign_up_string"
+					 />
+
+				<View   android:id="@+id/line_1"
+					android:background="@drawable/line_1_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="71dp"
+					android:layout_width="428.01dp"
+					android:layout_height="100dp" />
+
+				<ImageView android:id="@+id/arrow_2"
+					android:src="@drawable/arrow_2"
+					android:contentDescription="arrow_2"
+					 android:layout_marginStart="-100dp"
+					android:layout_marginTop="799dp"
+					android:layout_width="417dp"
+					android:layout_height="0dp" />
+
+			</RelativeLayout>
+
+
+			<View   android:id="@+id/rectangle_3"
+				android:background="@drawable/rectangle_3_shape"
+				 android:layout_marginStart="-1079dp"
+				android:layout_marginTop="389dp"
+				android:layout_width="138dp"
+				android:layout_height="48dp" />
+
+			<View   android:id="@+id/rectangle_1"
+				android:background="@drawable/rectangle_1_shape"
+				 android:layout_marginStart="-1227dp"
+				android:layout_marginTop="652dp"
+				android:layout_width="148dp"
+				android:layout_height="48dp" />
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

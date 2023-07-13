@@ -1,0 +1,152 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		intro
+	 *	@date 		Wednesday 28th of September 2022 03:35:15 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/welcome" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/rectangle_3"
+				android:background="@drawable/rectangle_3_shape"
+				 android:layout_marginStart="-1079dp"
+				android:layout_marginTop="389dp"
+				android:layout_width="138dp"
+				android:layout_height="48dp" />
+
+			<View   android:id="@+id/rectangle_1"
+				android:background="@drawable/rectangle_1_shape"
+				 android:layout_marginStart="-1227dp"
+				android:layout_marginTop="652dp"
+				android:layout_width="148dp"
+				android:layout_height="48dp" />
+
+
+
+			<RelativeLayout android:id="@+id/page_welcome_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__welcome_ek2"
+					android:background="@drawable/_bg__welcome_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<TextView android:id="@+id/welcome_to_codecademy__free_online_courses"
+					android:fontFamily="K2D"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="32sp"
+					android:textColor="@color/continue_color"
+					android:layout_marginLeft="23dp"
+					android:layout_marginTop="136dp"
+					android:layout_width="392dp"
+					android:layout_height="106dp"
+					android:text="@string/welcome_to_codecademy__free_online_courses_string"
+					 />
+
+				<View   android:id="@+id/rectangle_7"
+					android:background="@drawable/rectangle_7_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="335dp"
+					android:layout_width="428dp"
+					android:layout_height="120dp" />
+
+				<View   android:id="@+id/line_2"
+					android:background="@drawable/line_2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="69dp"
+					android:layout_width="428dp"
+					android:layout_height="100dp" />
+
+				<View   android:id="@+id/ellipse_3"
+					android:background="@drawable/ellipse_3_shape"
+					 android:layout_marginStart="95dp"
+					android:layout_marginTop="283dp"
+					android:layout_width="247.59dp"
+					android:layout_height="235.85dp" />
+
+				<View   android:id="@+id/ellipse_3_ek1"
+					android:background="@drawable/ellipse_3_ek1_shape"
+					 android:layout_marginStart="111dp"
+					android:layout_marginTop="297dp"
+					android:layout_width="216dp"
+					android:layout_height="206dp" />
+
+				<View   android:id="@+id/rectangle_5"
+					android:background="@drawable/rectangle_5_shape"
+					 android:layout_marginStart="59dp"
+					android:layout_marginTop="720dp"
+					android:layout_width="121dp"
+					android:layout_height="56dp" />
+
+				<View   android:id="@+id/rectangle_6"
+					android:background="@drawable/rectangle_6_shape"
+					 android:layout_marginStart="242dp"
+					android:layout_marginTop="720dp"
+					android:layout_width="121dp"
+					android:layout_height="56dp" />
+
+				<TextView android:id="@+id/your_journey_starts_right_here__"
+					android:fontFamily="K2D"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="32sp"
+					android:textColor="@color/continue_color"
+					android:layout_marginLeft="39dp"
+					android:layout_marginTop="553dp"
+					android:layout_width="361dp"
+					android:layout_height="65dp"
+					android:text="@string/your_journey_starts_right_here___string"
+					 />
+
+				<TextView android:id="@+id/beginner"
+					android:fontFamily="K2D"
+					android:textSize="18sp"
+					android:textColor="@color/ellipse_1_color"
+					android:layout_marginLeft="83dp"
+					android:layout_marginTop="736dp"
+					android:layout_width="97dp"
+					android:layout_height="36dp"
+					android:text="@string/beginner_string"
+					 />
+
+				<TextView android:id="@+id/amateur"
+					android:fontFamily="K2D"
+					android:textSize="18sp"
+					android:textColor="@color/ellipse_1_color"
+					android:layout_marginLeft="268dp"
+					android:layout_marginTop="736dp"
+					android:layout_width="93dp"
+					android:layout_height="36dp"
+					android:text="@string/amateur_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

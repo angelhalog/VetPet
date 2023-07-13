@@ -1,0 +1,136 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		intro
+	 *	@date 		Wednesday 28th of September 2022 03:35:15 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/sign_up" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/rectangle_3"
+				android:background="@drawable/rectangle_3_shape"
+				 android:layout_marginStart="-1079dp"
+				android:layout_marginTop="389dp"
+				android:layout_width="138dp"
+				android:layout_height="48dp" />
+
+			<View   android:id="@+id/rectangle_1"
+				android:background="@drawable/rectangle_1_shape"
+				 android:layout_marginStart="-1227dp"
+				android:layout_marginTop="652dp"
+				android:layout_width="148dp"
+				android:layout_height="48dp" />
+
+
+
+			<RelativeLayout android:id="@+id/page_sign_up_ek2"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__sign_up_ek3"
+					android:background="@drawable/_bg__sign_up_ek3_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<ImageView android:id="@+id/arrow_1"
+					android:src="@drawable/arrow_1"
+					android:contentDescription="arrow_1"
+					 android:layout_marginStart="-116dp"
+					android:layout_marginTop="792dp"
+					android:layout_width="417dp"
+					android:layout_height="0dp" />
+
+				<View   android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape"
+					 android:layout_marginStart="20dp"
+					android:layout_marginTop="269dp"
+					android:layout_width="391dp"
+					android:layout_height="42dp" />
+
+				<TextView android:id="@+id/what_is_your_name_"
+					android:fontFamily="K2D"
+					android:textSize="18sp"
+					android:textColor="@color/ellipse_1_color"
+					android:layout_marginLeft="10dp"
+					android:layout_marginTop="225dp"
+					android:layout_width="209dp"
+					android:layout_height="36dp"
+					android:text="@string/what_is_your_name__string"
+					 />
+
+				<View   android:id="@+id/_rectangle_4"
+					android:background="@drawable/_rectangle_4_shape"
+					 android:layout_marginStart="145dp"
+					android:layout_marginTop="793dp"
+					android:layout_width="138dp"
+					android:layout_height="48dp" />
+
+				<TextView android:id="@+id/sign_up_ek4"
+					android:fontFamily="K2D"
+					android:textStyle="bold"
+					android:textSize="32sp"
+					android:textColor="@color/sign_up_ek4_color"
+					android:layout_marginLeft="156dp"
+					android:layout_marginTop="124dp"
+					android:layout_width="152dp"
+					android:layout_height="64dp"
+					android:text="@string/sign_up_ek4_string"
+					 />
+
+				<TextView android:id="@+id/continue"
+					android:fontFamily="K2D"
+					android:textSize="18sp"
+					android:textColor="@color/continue_color"
+					android:layout_marginLeft="177dp"
+					android:layout_marginTop="805dp"
+					android:layout_width="97dp"
+					android:layout_height="36dp"
+					android:text="@string/continue_string"
+					 />
+
+				<View   android:id="@+id/line_3"
+					android:background="@drawable/line_3_shape"
+					 android:layout_marginStart="-9dp"
+					android:layout_marginTop="71dp"
+					android:layout_width="437dp"
+					android:layout_height="100dp" />
+
+				<TextView android:id="@+id/_back"
+					android:fontFamily="K2D"
+					android:textSize="20sp"
+					android:textColor="@color/line_1_color"
+					android:layout_marginLeft="20dp"
+					android:layout_marginTop="37dp"
+					android:layout_width="70dp"
+					android:layout_height="40dp"
+					android:text="@string/_back_string"
+					 />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
