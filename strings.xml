@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- intro strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="codecademy_string">Codecademy</string>
+	<string name="sign_up_string">Sign Up</string>
+	<string name="what_is_your_name__string">What is your name?</string>
+	<string name="sign_up_ek4_string">Sign Up</string>
+	<string name="continue_string">Continue</string>
+	<string name="_back_string">Back</string>
+	<string name="welcome_to_codecademy__free_online_courses_string">Welcome to Codecademy!Free online courses</string>
+	<string name="your_journey_starts_right_here___string">Your journey starts right here._</string>
+	<string name="beginner_string">Beginner</string>
+	<string name="amateur_string">Amateur</string>
+</resources>
